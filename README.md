@@ -38,3 +38,11 @@ aula06principal.java: Classe principal para execução e testes do objeto.
 Projeto desenvolvido como parte dos meus estudos de Java POO, focado em boas práticas e arquitetura de software.
 
 ---
+![Interface do Banco](img/en1.png)
+![Interface do Banco](img/en2.png)
+![Interface do Banco](img/en3.png)
+![Interface do Banco](img/en4.png)
+![Interface do Banco](img/ene5.png)
+![Interface do Banco](img/en6.png)
+
+---
