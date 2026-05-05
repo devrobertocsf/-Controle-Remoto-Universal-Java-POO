@@ -34,5 +34,7 @@ ControleRemoto.java: Classe que implementa a interface e contém a lógica inter
 aula06principal.java: Classe principal para execução e testes do objeto.
 
 ---
-###Projeto desenvolvido como parte dos meus estudos de Java POO, focado em boas práticas e arquitetura de software.
+
+Projeto desenvolvido como parte dos meus estudos de Java POO, focado em boas práticas e arquitetura de software.
+
 ---
